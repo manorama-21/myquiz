@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(229, 175, 137);
+   
+}
+.container{
+    background-color: aqua;
+    width: 50%;
+    height: 70%;
+    padding: 30px 10px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top:25vh;
+    font-size: 30px;
+}
+.btn{
+    background-color: brown;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: darkgreen;
+} 
+h1{
+    font-size: 70px;
+}

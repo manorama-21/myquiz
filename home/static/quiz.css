@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(231, 147, 218);
+}
+.container{
+    background-color: aqua;
+    padding: 30px ;
+    font-size: 22px;
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    color: darkblue;
+} 
+.form-check{
+    color: rgb(100, 36, 42);
+}
